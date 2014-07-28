@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A_002_Calcula</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_value1">Valor 1</string>
+    <string name="text_value2">Valor 2</string>
+    <string name="text_somar">Somar</string>
+    <string name="text_limpar">Limpar</string>
+
+</resources>
